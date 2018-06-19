@@ -20,18 +20,4 @@ Description of the parameter.
 2. Mask Size:- Mask Size will also plays imortant role in smoothing. Smoothing will increses as incresed in mask size.
 3. Dual Threshold:- There are two threshold in Canny edge detector. The gradient magnitude above than upper theshold will be treated as Edge pixel the gradient value lower than lower threshold will be treated as No edge pixel. And the values in between the two threshold will be consider based on neghibouring condition. 
 
-Some combinations of Parameter values for executing the code
-Case1 Different Mask
-Sigma=0.357142, Mask 3, Lower Threshold=0.051948 Upper Threshold=0.097403
-Sigma=0.357142, Mask 5, Lower Threshold=0.051948 Upper Threshold=0.097403
-Sigma=0.357142, Mask 7, Lower Threshold=0.051948 Upper Threshold=0.097403 
 
-Case2 Different Sigma
-Sigma=0.357142, Mask 3, Lower Threshold=0.051948 Upper Threshold=0.097403
-Sigma=0.90909, Mask 3, Lower Threshold=0.051948 Upper Threshold=0.097403
-Sigma=4.058, Mask 3, Lower Threshold=0.051948 Upper Threshold=0.097403
-
-Case3 Different Threshold
-Sigma=1.0065, Mask 3, Lower Threshold=0.1883 Upper Threshold=0.2337
-Sigma=1.0065, Mask 3, Lower Threshold=0.2077 Upper Threshold=0.3181
-Sigma=1.0065, Mask 3, Lower Threshold=0.2532 Upper Threshold=0.3506
