@@ -1,4 +1,6 @@
 # Canny-Edge-Detector
+[PPT](https://doi.org/10.1016/j.patrec.2020.02.006) | [MATLAB](https://www.mathworks.com/products/matlab.html)
+
 Implementation of Canny edge detector
 
 In this project there are three functions Canny edge, Gaussian Mask and Convolution. These functions are called in Canny_gui.m.
