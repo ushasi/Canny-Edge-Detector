@@ -12,7 +12,7 @@ Once we execute Canny.gui.m file. Immideately GUI will open which has
 5.Scroll Bar3:- Third scroll bar is for selecting Upper threshold value. You can select the upper threshold from 0 to 1.
 6.Push Button:-By clicking on the last push Button i.e. OK the program will execute with given parameters.
 
-<img src=Eiffel.jpg alt="Canny edge detector" width="480"><img src=Canny.jpg alt="Canny edge detector" width="480">
+<img src=Eiffel.jpg alt="Canny edge detector" width="400"><img src=Canny.jpg alt="Canny edge detector" width="400">
 
 NOTE:
 1.Before execution you need to set a path of the folder where all this matlab files are stored by selecting set path tab.
